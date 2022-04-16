@@ -73,7 +73,7 @@ const AccountInfo: React.FC = () => {
 
   return (
     <StyledContainer>
-      <StylesTitle>Account Balance Info</StylesTitle>
+      <StylesTitle>Account Balance</StylesTitle>
       <StyledRow>
         LUNA Balance:
         <span>
